@@ -1,0 +1,17 @@
+inherit distutils
+NAME="bzr-fastimport"
+VERSION=0.13.0
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="Bzr plugin for fast loading of revision control data"
+DESCRIPTION="Bazaar Fast Import is a plugin providing fast loading of revision
+control data into Bazaar.  It is designed to be used in combination
+with front-end programs that generate a command/data stream for it to
+process.  Front-ends are available for a wide range of foreign VCS
+tools including Subversion, CVS, Git, Mercurial, Darcs, and Perforce.
+New front-ends are easy to develop in whatever programming language
+you prefer, making Bazaar Fast Import useful for teams needing a
+custom migration solution."
+REQUIRES="python-fastimport"
+HOMEPAGE="https://launchpad.net/bzr-fastimport"
+SRC_URI="https://launchpad.net/${NAME}/trunk/${VERSION}/+download/${NAME}-${VERSION}.tar.gz"

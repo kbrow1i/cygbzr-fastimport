@@ -1,0 +1,6 @@
+*~
+bzr-fastimport-*-*/
+*.tar.gz
+*.tar.bz2
+
+
