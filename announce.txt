@@ -1,0 +1,27 @@
+bzr-fastimport-0.13.0-1 has been added to the Cygwin distribution.
+
+Bazaar Fast Import is a plugin providing fast loading of revision control data into Bazaar.  It is designed to be used in combination with front-end programs that generate a command/data stream for it to process.  Front-ends are available for a wide range of foreign VCS tools including Subversion, CVS, Git, Mercurial, Darcs, and Perforce.  New front-ends are easy to develop in whatever programming language you prefer, making Bazaar Fast Import useful for teams needing a custom migration solution.
+
+bzr-fastimport includes, among other things, a fast-export command that can be used for migrating from Bazaar to a different version-control system.  See
+
+  http://doc.bazaar.canonical.com/plugins/en/fastimport-plugin.html
+
+for more information.  And see
+
+  http://blog.timmattison.com/archives/2011/06/13/how-to-convert-from-bzr-to-git-on-debianubuntu
+
+for step-by-step instructions for converting a repository from Bazaar to Git.
+
+Ken Brown
+
+            *** CYGWIN-ANNOUNCE UNSUBSCRIBE INFO ***
+
+If you want to unsubscribe from the cygwin-announce mailing list, look at the "List-Unsubscribe: " tag in the email header of this message.  Send email to the address specified there.  It will be in the format:
+
+  cygwin-announce-unsubscribe-you=yourdomain.com@cygwin.com
+
+If you need more information on unsubscribing, start reading here:
+
+  http://sourceware.org/lists.html#unsubscribe-simple
+
+Please read *all* of the information on unsubscribing that is available starting at the above URL.
