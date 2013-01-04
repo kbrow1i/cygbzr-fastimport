@@ -2,7 +2,7 @@ inherit distutils
 NAME="bzr-fastimport"
 VERSION=0.13.0
 RELEASE=1
-CATEGORY="Devel Python"
+CATEGORY="Devel"
 SUMMARY="Bzr plugin for fast loading of revision control data"
 DESCRIPTION="Bazaar Fast Import is a plugin providing fast loading of revision
 control data into Bazaar.  It is designed to be used in combination
