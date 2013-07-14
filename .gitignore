@@ -3,4 +3,5 @@ bzr-fastimport-*-*/
 *.tar.gz
 *.tar.bz2
 itp.txt
+/build64
 
