@@ -1,7 +1,7 @@
 inherit distutils
 NAME="bzr-fastimport"
 VERSION=0.13.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="Bzr plugin for fast loading of revision control data"
 DESCRIPTION="Bazaar Fast Import is a plugin providing fast loading of revision
@@ -14,3 +14,4 @@ you prefer, making Bazaar Fast Import useful for teams needing a
 custom migration solution."
 HOMEPAGE="https://launchpad.net/bzr-fastimport"
 SRC_URI="https://launchpad.net/${NAME}/trunk/${VERSION}/+download/${NAME}-${VERSION}.tar.gz"
+ARCH=noarch
